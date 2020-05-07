@@ -62,7 +62,7 @@
     source = {
       fetchSubmodules = false;
       rev = "c12678536f45b6ea564a07f9a0ff522215d476d1";
-      sha256 = "15mz86jzywqs51q3s3fv6i14b0sy7apj45aafymksp1zy0y7gggv";
+      sha256 = "0cxs90sb27gvczz4v4wfd8zrgm2c71xkqn9zgc6iah8hc8vsnq38";
       type = "git";
       url = "git://github.com/dezgeg/fpm.git";
     };
